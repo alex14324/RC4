@@ -1,0 +1,3 @@
+﻿  RC4(1).c
+C:\Users\Administrator\Desktop\MD\18.Rc4\Rc4\Rc4\RC4(1).c(28,3): warning C4098: 'rc4Init': 'void' function returning a value
+  Rc4.vcxproj -> C:\Users\Administrator\Desktop\MD\18.Rc4\Rc4\x64\Debug\Rc4(1).exe
